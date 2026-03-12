@@ -134,3 +134,6 @@ Mapped and analyzed the order-to-cash workflow, identifying bottlenecks contribu
 
 📎 Contact: 469-924-1840  
 📧 Email: violetkafu2018@gmail.com
+
+# Certifications
+https://coursera.org/share/4575d28716d0cb5ad88866a90bf6b663
